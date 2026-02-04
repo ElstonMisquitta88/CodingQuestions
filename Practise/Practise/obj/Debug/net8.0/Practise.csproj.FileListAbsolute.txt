@@ -1,0 +1,14 @@
+D:\GitHub\CodingQuestions\Practise\Practise\bin\Debug\net8.0\Practise.exe
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\Practise.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\Practise.AssemblyInfoInputs.cache
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\Practise.AssemblyInfo.cs
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\Practise.csproj.CoreCompileInputs.cache
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\Practise.dll
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\refint\Practise.dll
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\Practise.pdb
+D:\GitHub\CodingQuestions\Practise\Practise\bin\Debug\net8.0\Practise.deps.json
+D:\GitHub\CodingQuestions\Practise\Practise\bin\Debug\net8.0\Practise.runtimeconfig.json
+D:\GitHub\CodingQuestions\Practise\Practise\bin\Debug\net8.0\Practise.dll
+D:\GitHub\CodingQuestions\Practise\Practise\bin\Debug\net8.0\Practise.pdb
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\Practise.genruntimeconfig.cache
+D:\GitHub\CodingQuestions\Practise\Practise\obj\Debug\net8.0\ref\Practise.dll
