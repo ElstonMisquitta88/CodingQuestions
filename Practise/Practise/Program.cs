@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Practise;
 using System.Text;
 using static System.Net.Mime.MediaTypeNames;
 
@@ -58,3 +59,20 @@ Console.WriteLine("Hello, World!");
 //    rev.Add(nums[i]);
 //}
 //Console.WriteLine("");
+
+// (1) Delegate Example
+static void OnDownloadComplete()
+{
+    Console.WriteLine("Download finished!");
+}
+
+var downloader = new Downloader(OnDownloadComplete);
+downloader.Download();
+
+// (2) Delegate Example
+
+PaymentDelegate payment = Payment.PayByCard;
+payment(500);
+
+payment = Payment.PayByUPI;
+payment(1000);
